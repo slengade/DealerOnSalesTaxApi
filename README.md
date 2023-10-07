@@ -1,0 +1,2 @@
+# DealerOnSalesTaxApi
+Here is my Sales Tax project.  I have made an API project that takes in a shopping cart object and returns a string in the output requested.  I have unit tested my service layer methods.  The unit tests are very basic, just wanted to set it up.   I used NUnit for the unit test framework.  I have also set up swagger, so you can test as well using swagger.  If you run the code locally, it should go to swagger as the startup page.  
